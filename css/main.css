@@ -482,7 +482,7 @@ padding: 0;
 
   .product-card {
     width: 100%; /* Full width on very small screens */
-    margin-right: 5px;
+    margin-right: 10px;
   }
 
   .pre-btn,
