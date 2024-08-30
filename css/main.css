@@ -461,7 +461,7 @@ padding: 0;
 @media screen and (max-width: 768px) {
   .product-card {
     width: 90%; /* Slightly larger on smaller screens */
-    margin-right: 10px; /* Less margin between cards */
+    margin-right: 15px; /* Less margin between cards */
   }
 
   .pre-btn,
