@@ -813,8 +813,9 @@ text-decoration: underline;
     padding: 15px;
   }
 
-  .card-image {
-    height: 500px;
+  .card-image,
+  .card-video{
+    height: 450px;
   }
 }
 
