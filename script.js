@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', function () {
       pagination: {
         el: '.swiper-pagination',
         clickable: true,
+        dynamicBullets:true
       },
       navigation: {
         nextEl: '.swiper-button-next',
