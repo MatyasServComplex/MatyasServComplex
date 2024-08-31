@@ -181,7 +181,7 @@ width: 100%;
   }
 
   .navbar .dropdown-menu li a {
-    padding: 15px; /* Increase padding for touch devices */
+    padding: 5px; /* Increase padding for touch devices */
     margin-left: 0; /* Align text to the edge */
     text-align: center; /* Center the text */
   }
