@@ -174,9 +174,12 @@ width: 100%;
 
 /* Mobile Optimization */
 @media (max-width: 768px) {
+  .navbar a{
+    margin-left:20px;
+  }
   .navbar .dropdown-menu {
-    position: static; /* Ensure the dropdown is properly positioned */
-    width: 100%; /* Make dropdown full-width */
+    position: absolute; /* Ensure the dropdown is properly positioned */
+    width: 60%; /* Make dropdown full-width */
     box-shadow: none; /* Remove shadow for a cleaner look on mobile */
   }
 
